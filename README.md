@@ -1,0 +1,2 @@
+# JuxsWebScraper
+Manual Webscraper
